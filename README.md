@@ -4,6 +4,7 @@
 
 - Python 3.7.5
 - numpy
+- scipy
 - cython
 - [pot](https://pythonot.github.io/)
 
